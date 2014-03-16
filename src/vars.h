@@ -1,2 +1,3 @@
-int STYLE_KEY = 1;
+int STYLE_KEY_INVERSE = 1;
+int STYLE_KEY_12_HOUR = 2;
 

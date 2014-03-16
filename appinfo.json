@@ -1,10 +1,10 @@
 {
-    "uuid": "b95eda21-5326-4fb0-ba9f-d2b1d259f625",
-    "shortName": "Simple F",
-    "longName": "Simple F",
-    "companyName": "QuickFox",
-    "versionCode": 1.5,
-    "versionLabel": "1.5",
+    "uuid": "18d24dec-f06a-4b49-9389-ff926fc1958f",
+    "shortName": "Simple K",
+    "longName": "Simple K",
+    "companyName": "Simple K Productions",
+    "versionCode": 1.0,
+    "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
     },
